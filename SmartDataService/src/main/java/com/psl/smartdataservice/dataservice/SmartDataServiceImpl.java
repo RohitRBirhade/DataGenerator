@@ -46,7 +46,6 @@ public class SmartDataServiceImpl implements SmartDataService {
 	
 	/**
 	 * Performes data generation operations and collectes data into JSONArray
-	 * 
 	 * @param String request 
 	 * @return JSONArray
 	 */

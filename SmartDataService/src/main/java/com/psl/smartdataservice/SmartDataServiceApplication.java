@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 
 @SpringBootApplication
-public class SpringJsonReaderApplication {
+public class SmartDataServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringJsonReaderApplication.class, args);
+		SpringApplication.run(SmartDataServiceApplication.class, args);
 	}
 
 }
